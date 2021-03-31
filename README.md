@@ -21,4 +21,9 @@ Skin-detection(Using GCN)
 * argparse
 * seaborn
 ## Directions for use
-* Step 1. 
+* Step 1. Data load (https://github.com/YangChangHee/Skin_Detection_MLPs/blob/main/Make_dataset/Step.1%20Data%20load.ipynb)
+
+Image Convert SFA_Skin.npy and SFA_NonSkin.npy
+
+* Step 2. Data_Make ()
+
