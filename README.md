@@ -35,8 +35,17 @@ save npy file (SFA_Skin_RGBCBCR.npy, SFA_NSkin_RGBCBCR.npy)
 
 ![graph](https://user-images.githubusercontent.com/59610723/113128625-f594a600-9254-11eb-8cf1-d1050e0e0a75.png)
 
-* Step 3. Model()
+* Step 3. Model(https://github.com/YangChangHee/Skin_Detection_MLPs/blob/main/Define_Model/Step.3%20Model.ipynb)
 
 Use Adam, ReLU, MLPs
 
 Hid_dim_1 =[3, 4, 5, 6], Hid_dim_2 =[3, 4, 5, 6]
+
+Result
+
+![11](https://user-images.githubusercontent.com/59610723/113129314-b6b32000-9255-11eb-8133-b084bcd09e0a.png)
+![22](https://user-images.githubusercontent.com/59610723/113129338-bd419780-9255-11eb-8cae-3676317673ad.png)
+![33](https://user-images.githubusercontent.com/59610723/113129344-be72c480-9255-11eb-8d8a-c9ca65fe8d0f.png)
+
+
+
