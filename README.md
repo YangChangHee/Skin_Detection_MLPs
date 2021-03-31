@@ -47,4 +47,7 @@ Result
 ![22](https://user-images.githubusercontent.com/59610723/113129338-bd419780-9255-11eb-8cae-3676317673ad.png)
 ![33](https://user-images.githubusercontent.com/59610723/113129344-be72c480-9255-11eb-8d8a-c9ca65fe8d0f.png)
 
+* Step 4. load_Model(https://github.com/YangChangHee/Skin_Detection_MLPs/blob/main/%EB%B3%B4%EA%B3%A0%EC%84%9C/Step.4.%20load_Model.ipynb)
+
+![image](https://user-images.githubusercontent.com/59610723/113129700-2aedc380-9256-11eb-93a9-1af3e34cb8a3.png)
 
