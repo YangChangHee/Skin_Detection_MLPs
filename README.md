@@ -20,3 +20,5 @@ Skin-detection(Using GCN)
 * torchvision
 * argparse
 * seaborn
+## Directions for use
+* Step 1. 
