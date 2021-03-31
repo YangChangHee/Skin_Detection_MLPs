@@ -31,6 +31,12 @@ Image RGB Convert RGBCbCr(5-dimention)
 
 Visualize NonSkin dataset and Skin dataset (Graph x axis : Cb, y axis : Cr)
 
+save npy file (SFA_Skin_RGBCBCR.npy, SFA_NSkin_RGBCBCR.npy)
+
 ![graph](https://user-images.githubusercontent.com/59610723/113128625-f594a600-9254-11eb-8cf1-d1050e0e0a75.png)
 
+* Step 3. Model()
 
+Use Adam, ReLU, MLPs
+
+Hid_dim_1 =[3, 4, 5, 6], Hid_dim_2 =[3, 4, 5, 6]
