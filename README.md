@@ -25,5 +25,12 @@ Skin-detection(Using GCN)
 
 Image Convert SFA_Skin.npy and SFA_NonSkin.npy
 
-* Step 2. Data_Make ()
+* Step 2. Data_Make (https://github.com/YangChangHee/Skin_Detection_MLPs/blob/main/Make_dataset/Step.2%20Data_Make.ipynb)
+
+Image RGB Convert RGBCbCr(5-dimention)
+
+Visualize NonSkin dataset and Skin dataset (Graph x axis : Cb, y axis : Cr)
+
+![graph](https://user-images.githubusercontent.com/59610723/113128625-f594a600-9254-11eb-8cf1-d1050e0e0a75.png)
+
 
